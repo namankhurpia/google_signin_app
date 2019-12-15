@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "833097022722",
+    "firebase_url": "https://gogoo-eed4e.firebaseio.com",
+    "project_id": "gogoo-eed4e",
+    "storage_bucket": "gogoo-eed4e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:833097022722:android:12f87c34607b4642",
+        "android_client_info": {
+          "package_name": "com.namankhurpia.gogoo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "833097022722-rnglbbmj2g010ib9qasfomfstkhjgceg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.namankhurpia.gogoo",
+            "certificate_hash": "e25938278698e57a74a4a2841511fea5650452ec"
+          }
+        },
+        {
+          "client_id": "833097022722-qh84erfl928st5n3r0eiplqv0o34ht77.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZ-bc9ALw8qhlNiXpH5qfn9y3h13Ldjow"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "833097022722-qh84erfl928st5n3r0eiplqv0o34ht77.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
